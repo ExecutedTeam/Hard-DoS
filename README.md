@@ -1,7 +1,7 @@
 <h1 align="center">📡 EXECUTOR-DDOS PRIVATE TEAM </h1> 
 <div align="center">
 
-<img src="https://i.ibb.co/WHv87XR/Screenshot-2023-08-04-12-45-31-10-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2023-08-04-12-45-31-10-84d3000e3f4017145260f7618db1d683" border="0">
+<img src="https://i.ibb.co/bvy0qMT/IMG-20230807-WA0243.jpg" alt="IMG-20230807-WA0243" border="0">
 
 </div>
 # Usage
