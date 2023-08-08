@@ -36,5 +36,9 @@ This application is intended to be used as a testing tool against your own serve
 
 ### Thanks To 
 
-[![Executor-Team](https://github.com/teamcyber-glitch.png?size=100)](https://github.com/teamcyber-glitch)
-[![Dusttale](https://github.com/AmmarrBN.png?size=100)](https://github.com/AmmarrBN)
+---------
+
+[![Executor-Team](https://github.com/teamcyber-glitch.png?size=100)](https://github.com/teamcyber-glitch) | [![Dusttale](https://github.com/AmmarrBN.png?size=100)](https://github.com/AmmarrBN) 
+----|----|
+[Executor-Team](https://github.com/teamcyber-glitch) | [Dusttale](https://github.com/AmmarrBN) 
+Author / Creator | Most Active Contributor 
