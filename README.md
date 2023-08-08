@@ -33,3 +33,8 @@
 <br>
 
 This application is intended to be used as a testing tool against your own servers. **DO NOT USE IT TO ATTACK OTHER PEOPLE**, we don't take responsibility for anything that may come up if you attack someone else. Also, this project makes a `DoS` attack, if you want to take down well-hosted servers, then it's up to you to scale the attack using a `DDoS` approach. Know the limitations of what you can do, and the defense mechanism used by your target; for instance, if a webserver uses DDoS mitigation appliances (such as load balancing), then you'll probably fail to take it down!!!
+
+### Thanks To 
+
+[![Executor-Team](https://github.com/teamcyber-glitch.png?size=100)](https://github.com/teamcyber-glitch)
+[![Dusttale](https://github.com/AmmarrBN.png?size=100)](https://github.com/AmmarrBN)
